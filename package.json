@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JLSRKonk/hello-world-npm#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@jlsrkonk"
+    "registry": "https://npm.pkg.github.com"
   }
 }
