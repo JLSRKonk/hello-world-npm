@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JLSRKonk/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/JLSRKonk/hello-world-npm#readme"
+  "homepage": "https://github.com/JLSRKonk/hello-world-npm#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jlsrkonk"
+  }
 }
