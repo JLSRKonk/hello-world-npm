@@ -1,0 +1,19 @@
+{
+  "name": "@jlsrkonk/hello-world-npm",
+  "version": "1.0.0",
+  "description": "Hello world to test npm packages",
+  "main": "hello.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLSRKonk/hello-world-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLSRKonk/hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/JLSRKonk/hello-world-npm#readme"
+}
